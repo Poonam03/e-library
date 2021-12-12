@@ -8,6 +8,10 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@babel/runtime": "^7.16.3",
+    "@firebase/app": "^0.7.11",
+    "@firebase/firestore": "^3.4.1",
+    "@react-navigation/native": "^6.0.6",
     "expo": "~43.0.2",
     "expo-barcode-scanner": "^11.1.2",
     "expo-permissions": "^13.0.3",
